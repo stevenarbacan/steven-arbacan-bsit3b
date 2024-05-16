@@ -47,7 +47,7 @@ class App {
   }
 
   _init() {
-    this._revealSection(1);
+    this._revealSection(0);
     this._activateTypingText();
   }
 }
